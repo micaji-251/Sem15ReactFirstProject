@@ -1,0 +1,13 @@
+.Title{
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.SubTitle{
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+    padding-bottom: 50px;
+}
